@@ -9,9 +9,12 @@
 - Set PORT via NODE ENV to avoid port conflicts (default: 3000)
 
 ### Resources
-Node.js / Express Course - Build 4 Projects: 
-<img align="left" alt="https://www.youtube.com/watch?v=qwfE7fSVaZM | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<img align="left" alt="https://www.youtube.com/watch?v=qwfE7fSVaZM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<br />
+Node.js / Express Course - Build 4 Projects = https://www.youtube.com/watch?v=qwfE7fSVaZM
+<br />
 FreeCodeCamp = https://www.youtube.com/c/Freecodecamp
+<br />
 Coding Addict = https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA
 <br />
 
